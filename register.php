@@ -1,7 +1,7 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://amazstref.herokuapp.com/execute.php';
+$WEBHOOK_URL = 'https://strefbot.herokuapp.com/execute.php';
 $BOT_TOKEN = '585295480:AAFQlzHnGdUGduAyB6xsxhZsozHeFVPIyWo';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
